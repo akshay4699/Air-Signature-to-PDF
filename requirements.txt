@@ -1,0 +1,8 @@
+opencv-python
+numpy
+PyMuPDF
+reportlab
+mediapipe
+moviepy
+Pillow
+PyPDF2

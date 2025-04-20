@@ -1,0 +1,10 @@
+Document Title: Authorization Form
+
+This document is used to confirm the agreement between the user and the service provider.
+
+Please sign below:
+
+_________________________
+Signature
+
+Date: ________________
