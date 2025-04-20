@@ -27,3 +27,8 @@ Install using pip:
 
 ```bash
 pip install opencv-python mediapipe numpy fpdf PyPDF2
+
+
+## 📝 License
+
+This project is licensed under the [MIT License](./LICENSE).
