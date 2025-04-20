@@ -15,7 +15,7 @@ git commit -m "Updated working model Project"
 
 git branch -M main
 
-git remote add origin https://github.com/akshay4699/Text-Summarization-Project.git
+git remote add origin https://github.com/akshay4699/Air-Signature-to-PDF.git
 
 git push -u origin main
 
