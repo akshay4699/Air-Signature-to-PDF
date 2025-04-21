@@ -6,3 +6,5 @@ mediapipe
 moviepy
 Pillow
 PyPDF2
+pdf2image 
+flask 
